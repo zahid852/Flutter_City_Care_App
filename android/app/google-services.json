@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756043123770",
+    "project_id": "city-care-2539a",
+    "storage_bucket": "city-care-2539a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756043123770:android:ac4e3a70584643fdddf903",
+        "android_client_info": {
+          "package_name": "com.example.city_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756043123770-3ejbsfsf29q90bpfh05dmjmaf4voa8dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWdrYzYsesg8dUawnxeBe8OtNtMly6xhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756043123770-3ejbsfsf29q90bpfh05dmjmaf4voa8dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
